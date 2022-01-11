@@ -1,0 +1,9 @@
+.centerSection{
+    width: 85%;
+    height: 80%;
+    position: absolute;
+    bottom: 10%;
+    left: 15%;
+    background-color: yellow;
+    color: black;
+}

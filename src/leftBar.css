@@ -1,0 +1,9 @@
+.leftBar{
+    width: 15%;
+    height: 80%;
+    position: absolute;
+    bottom: 10%;
+    left: 0%;
+    background-color: green;
+    color: green;
+}
